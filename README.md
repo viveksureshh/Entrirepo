@@ -1,2 +1,1 @@
-# Entrirepo
-Description about mini project 
+MINI PROJECT
